@@ -2,8 +2,8 @@
 
 <h3>Features</h3>
 - Adding a new contact</br>
-- Edit an existing contact
-- Delete a contact
-- Display all contacts
-- Search for a specified contact
-- Export contacts into a txt file
+- Edit an existing contact</br>
+- Delete a contact</br>
+- Display all contacts</br>
+- Search for a specified contact</br>
+- Export contacts into a txt file</br>
