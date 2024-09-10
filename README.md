@@ -1,6 +1,6 @@
 # PythonContactManagementSystem
 
-###Features
+<h3>Features</h3>
 - Adding a new contact
 - Edit an existing contact
 - Delete a contact
