@@ -1,5 +1,7 @@
 # PythonContactManagementSystem
 
+An inline contact journal that allows the user multiple options specified below.
+
 <h3>Features</h3>
 - Adding a new contact</br>
 - Edit an existing contact</br>
